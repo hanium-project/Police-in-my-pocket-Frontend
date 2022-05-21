@@ -1,8 +1,9 @@
-package com.police_in_my_pocket_frontend;
+cdpackage com.sample;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
 import com.facebook.react.ReactRootView;
+import com.sample.BuildConfig;
 
 public class MainActivity extends ReactActivity {
 
@@ -12,7 +13,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "police_in_my_pocket_frontend";
+    return "Sample";
   }
 
   /**

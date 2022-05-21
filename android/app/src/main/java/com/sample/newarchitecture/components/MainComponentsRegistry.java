@@ -1,4 +1,4 @@
-package com.police_in_my_pocket_frontend.newarchitecture.components;
+package com.sample.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;

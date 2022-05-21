@@ -1,4 +1,4 @@
-package com.police_in_my_pocket_frontend.newarchitecture;
+package com.sample.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.police_in_my_pocket_frontend.BuildConfig;
-import com.police_in_my_pocket_frontend.newarchitecture.components.MainComponentsRegistry;
-import com.police_in_my_pocket_frontend.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.sample.BuildConfig;
+import com.sample.newarchitecture.components.MainComponentsRegistry;
+import com.sample.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 
